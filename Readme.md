@@ -15,7 +15,6 @@ Tecnologias Utilizadas:
 - HTML
 - CSS
 
-Estrutura do Projeto
 O projeto está organizado da seguinte forma:
 - index.html: Página inicial do site.
 - assinatura.html: Página de planos de assinaturas.
@@ -33,7 +32,6 @@ Instruções de Uso
 - Navegue até a pasta do projeto.
 - bra qualquer página HTML em um navegador da web para visualizar o site.
 
-Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
 - Faça um fork do projeto.
 -Crie uma nova branch (git checkout -b feature/nova-feature).
