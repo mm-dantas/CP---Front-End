@@ -30,7 +30,7 @@ Além disso, o projeto inclui:
 Instruções de Uso
 - Faça o clone deste repositório.
 - Navegue até a pasta do projeto.
-- bra qualquer página HTML em um navegador da web para visualizar o site.
+- abra qualquer página HTML em um navegador da web para visualizar o site.
 
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
 - Faça um fork do projeto.
