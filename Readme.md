@@ -1,6 +1,6 @@
 Vinheria Agnello - Projeto Frontend
 
-Descrição
+
 Este é um projeto frontend desenvolvido pela equipe da FIAP para criar um protótipo de um site para a Vinheria Agnello. O projeto consiste em cinco diferentes páginas: Home, Sobre Nós, Login, Cadastro e Plano de Assinaturas. O site visa apresentar a história da vinheria, permitir que os usuários façam login ou cadastro, e oferecer diferentes planos de assinaturas para que os clientes recebam vinhos em casa de acordo com suas preferências.
 
 Equipe de Desenvolvimento:
