@@ -15,20 +15,20 @@ Tecnologias Utilizadas:
 - HTML
 - CSS
 
-## Estrutura do Projeto
+Estrutura do Projeto
 O projeto está organizado da seguinte forma:
 
-- **index.html**: Página inicial do site.
-- **assinatura.html**: Página de planos de assinaturas.
-- **criarconta.html**: Página de cadastro.
-- **login.html**: Página de login.
-- **nossaVinheria.html**: Página "Sobre Nós".
+- index.html: Página inicial do site.
+- assinatura.html: Página de planos de assinaturas.
+- criarconta.html: Página de cadastro.
+- login.html: Página de login.
+- nossaVinheria.html: Página "Sobre Nós".
 
 Além disso, o projeto inclui:
 
-- **css/**: Diretório contendo arquivos CSS para estilos personalizados do site.
-- **img/**: Diretório para armazenar imagens utilizadas no projeto.
-- **README.md**: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
+- css/: Diretório contendo arquivos CSS para estilos personalizados do site.
+- img/: Diretório para armazenar imagens utilizadas no projeto.
+- README.md: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
 
 Instruções de Uso
 1 Faça o clone deste repositório.
