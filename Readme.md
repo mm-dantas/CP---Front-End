@@ -34,7 +34,7 @@ Instruções de Uso
 
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
 - Faça um fork do projeto.
--Crie uma nova branch (git checkout -b feature/nova-feature).
+- Crie uma nova branch (git checkout -b feature/nova-feature).
 - Faça commit das suas alterações (git commit -am 'Adiciona uma nova feature').
 - Faça push para a branch (git push origin feature/nova-feature).
 - Crie um novo Pull Request.
