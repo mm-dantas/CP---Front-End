@@ -29,14 +29,14 @@ Além disso, o projeto inclui:
 - README.md: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
 
 Instruções de Uso
-1 Faça o clone deste repositório.
-2 Navegue até a pasta do projeto.
-3 Abra qualquer página HTML em um navegador da web para visualizar o site.
+- Faça o clone deste repositório.
+- Navegue até a pasta do projeto.
+- bra qualquer página HTML em um navegador da web para visualizar o site.
 
 Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
-1 Faça um fork do projeto.
-2Crie uma nova branch (git checkout -b feature/nova-feature).
-3 Faça commit das suas alterações (git commit -am 'Adiciona uma nova feature').
-4 Faça push para a branch (git push origin feature/nova-feature).
-5 Crie um novo Pull Request.
+- Faça um fork do projeto.
+-Crie uma nova branch (git checkout -b feature/nova-feature).
+- Faça commit das suas alterações (git commit -am 'Adiciona uma nova feature').
+- Faça push para a branch (git push origin feature/nova-feature).
+- Crie um novo Pull Request.
