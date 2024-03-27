@@ -1,9 +1,9 @@
-Vinheria Agnello - Projeto Frontend
+##Vinheria Agnello - Projeto Frontend
 
-Descrição
+#Descrição
 Este é um projeto frontend desenvolvido pela equipe da FIAP para criar um protótipo de um site para a Vinheria Agnello. O projeto consiste em cinco diferentes páginas: Home, Sobre Nós, Login, Cadastro e Plano de Assinaturas. O site visa apresentar a história da vinheria, permitir que os usuários façam login ou cadastro, e oferecer diferentes planos de assinaturas para que os clientes recebam vinhos em casa de acordo com suas preferências.
 
-Equipe de Desenvolvimento:
+#Equipe de Desenvolvimento:
 - Marco Antonio Andrade Gonçalves
 - Silas Alves dos Santos
 - Matheus Dantas
@@ -11,11 +11,11 @@ Equipe de Desenvolvimento:
 - Rodrigo Leme
 - Ana Caroline
 
-Tecnologias Utilizadas:
+#Tecnologias Utilizadas:
 - HTML
 - CSS
 
-Estrutura do Projeto
+#Estrutura do Projeto
 O projeto está organizado da seguinte forma:
 
 - index.html: Página inicial do site.
@@ -30,12 +30,12 @@ Além disso, o projeto inclui:
 - img/: Diretório para armazenar imagens utilizadas no projeto.
 - README.md: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
 
-Instruções de Uso
+#Instruções de Uso
 1 Faça o clone deste repositório.
 2 Navegue até a pasta do projeto.
 3 Abra qualquer página HTML em um navegador da web para visualizar o site.
 
-Contribuições
+#Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
 
 1 Faça um fork do projeto.
