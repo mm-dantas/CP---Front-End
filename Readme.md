@@ -17,7 +17,6 @@ Tecnologias Utilizadas:
 
 Estrutura do Projeto
 O projeto está organizado da seguinte forma:
-
 - index.html: Página inicial do site.
 - assinatura.html: Página de planos de assinaturas.
 - criarconta.html: Página de cadastro.
@@ -25,7 +24,6 @@ O projeto está organizado da seguinte forma:
 - nossaVinheria.html: Página "Sobre Nós".
 
 Além disso, o projeto inclui:
-
 - css/: Diretório contendo arquivos CSS para estilos personalizados do site.
 - img/: Diretório para armazenar imagens utilizadas no projeto.
 - README.md: Documentação do projeto, fornecendo informações sobre a estrutura, a equipe de desenvolvimento, as tecnologias utilizadas e instruções de uso.
@@ -37,7 +35,6 @@ Instruções de Uso
 
 Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga as etapas abaixo:
-
 1 Faça um fork do projeto.
 2Crie uma nova branch (git checkout -b feature/nova-feature).
 3 Faça commit das suas alterações (git commit -am 'Adiciona uma nova feature').
