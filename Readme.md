@@ -9,7 +9,6 @@ Este √© um projeto frontend desenvolvido pela equipe da FIAP para criar um prot√
 - Matheus Dantas
 - Camila Takara
 - Rodrigo Leme
-- Ana Caroline
 
 ## Tecnologias Utilizadas:
 - HTML
